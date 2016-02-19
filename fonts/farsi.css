@@ -46,3 +46,26 @@ https://github.com/pi0/farsi.css
        url('Koodak.woff') format('woff'),
        url('Koodak.ttf') format('truetype');  
 }
+
+
+.Yekan {
+	font-family: Yekan, tahoma, sans-serif;
+}
+.Titr {
+	font-family: Titr, tahoma, sans-serif;
+}
+.Mitra {
+	font-family: Mitra, tahoma, sans-serif;
+}
+.Liner {
+	font-family: Liner, tahoma, sans-serif;
+}
+.Nasim {
+	font-family: Nasim, tahoma, sans-serif;
+}
+.Nazanin {
+	font-family: Nazanin, tahoma, sans-serif;
+}
+.Koodak {
+	font-family: Koodak, tahoma, sans-serif;
+}
