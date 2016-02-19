@@ -1,0 +1,48 @@
+/*
+Farsi.css
+Packaged by pooya parsa <pooya@pi0.ir>
+https://github.com/pi0/farsi.css
+*/
+
+@font-face {
+  font-family: 'Yekan';
+  src: url('Yekan.eot?#') format('eot'),  
+       url('Yekan.woff') format('woff'),
+       url('Yekan.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Titr';
+  src: url('Titr.eot?#') format('eot'),  
+       url('Titr.woff') format('woff'),
+       url('Titr.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Mitra';
+  src: url('Mitra.eot?#') format('eot'),  
+       url('Mitra.woff') format('woff'),
+       url('Mitra.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Liner';
+  src: url('Liner.eot?#') format('eot'),  
+       url('Liner.woff') format('woff'),
+       url('Liner.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Nasim';
+  src: url('Nasim.eot?#') format('eot'),  
+       url('Nasim.woff') format('woff'),
+       url('Nasim.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Nazanin';
+  src: url('Nazanin.eot?#') format('eot'),  
+       url('Nazanin.woff') format('woff'),
+       url('Nazanin.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Koodak';
+  src: url('Koodak.eot?#') format('eot'),  
+       url('Koodak.woff') format('woff'),
+       url('Koodak.ttf') format('truetype');  
+}
