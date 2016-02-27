@@ -1,0 +1,170 @@
+/*
+Farsi.css
+Packaged by pooya parsa <pooya@pi0.ir>
+https://github.com/pi0/farsi.css
+*/
+
+@font-face {
+  font-family: 'Yekan';
+  src:  url('./Yekan.eot?#') format('eot'),  
+        url('./Yekan.woff') format('woff'),
+        url('./Yekan.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Titr';
+  src:  url('./Titr.eot?#') format('eot'),  
+        url('./Titr.woff') format('woff'),
+        url('./Titr.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Mitra';
+  src:  url('./Mitra.eot?#') format('eot'),  
+        url('./Mitra.woff') format('woff'),
+        url('./Mitra.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Liner';
+  src:  url('./Liner.eot?#') format('eot'),  
+        url('./Liner.woff') format('woff'),
+        url('./Liner.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Nasim';
+  src:  url('./Nasim.eot?#') format('eot'),  
+        url('./Nasim.woff') format('woff'),
+        url('./Nasim.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Nazanin';
+  src:  url('./Nazanin.eot?#') format('eot'),  
+        url('./Nazanin.woff') format('woff'),
+        url('./Nazanin.ttf') format('truetype');  
+}
+@font-face {
+  font-family: 'Koodak';
+  src:  url('./Koodak.eot?#') format('eot'),  
+        url('./Koodak.woff') format('woff'),
+        url('./Koodak.ttf') format('truetype');  
+}
+
+@font-face {
+	font-family: "abril";
+	src: url(./AbrilFatface-Regular.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal
+}
+
+@font-face {
+	font-family: 'IRANSans-web';
+	src: url('./IRANSans-Bold-web.eot');
+
+	src: url('./IRANSans-Bold-web.eot?#iefix') format('eot'),  /* IE6�8 */
+	url('./IRANSans-Bold-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('./IRANSans-Bold-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('./IRANSans-Bold-web.ttf') format('ttf');
+	font-weight: bold;
+}
+
+
+@font-face {
+	font-family: 'IRANSans-web';
+	src: url('./IRANSans-Medium-web.eot');
+
+	src: url('./IRANSans-Medium-web.eot?#iefix') format('eot'),  /* IE6�8 */
+	url('./IRANSans-Medium-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('./IRANSans-Medium-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('./IRANSans-Medium-web.ttf') format('ttf');
+	font-weight: 500;
+}
+
+
+@font-face {
+	font-family: 'IRANSans-web';
+	src: url('./IRANSans-UltraLight-web.eot');
+
+	src: url('./IRANSans-UltraLight-web.eot?#iefix') format('eot'),  /* IE6�8 */
+	url('./IRANSans-UltraLight-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('./IRANSans-UltraLight-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('./IRANSans-UltraLight-web.ttf') format('ttf');
+	font-weight: 200;
+}
+
+
+@font-face {
+	font-family: 'IRANSans-web';
+	src: url('./IRANSans-Light-web.eot');
+
+	src: url('./IRANSans-Light-web.eot?#iefix') format('eot'),  /* IE6�8 */
+	url('./IRANSans-Light-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('./IRANSans-Light-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('./IRANSans-Light-web.ttf') format('ttf');
+	font-weight: 300;
+}
+
+
+@font-face {
+	font-family: 'IRANSans-web';
+	src: url('./IRANSans-web.eot');
+
+	src: url('./IRANSans-web.eot?#iefix') format('eot'),  /* IE6�8 */
+	url('./IRANSans-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('./IRANSans-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('./IRANSans-web.ttf') format('ttf');
+	font-weight: normal;
+}
+
+.fa-number {
+	font-family: 'Yekan';
+	font-weight: normal;
+}
+
+.Yekan {
+	font-family: Yekan, tahoma, sans-serif;
+}
+.Titr {
+	font-family: Titr, tahoma, sans-serif;
+}
+.Mitra {
+	font-family: Mitra, tahoma, sans-serif;
+}
+.Liner {
+	font-family: Liner, tahoma, sans-serif;
+}
+.Nasim {
+	font-family: Nasim, tahoma, sans-serif;
+}
+.Nazanin {
+	font-family: Nazanin, tahoma, sans-serif;
+}
+.Koodak {
+	font-family: Koodak, tahoma, sans-serif;
+}
+
+.Sans {
+	font-family: 'IRANSans-web';
+}
+
+.Yekan {
+	font-family: Yekan, tahoma, sans-serif;
+}
+.Titr {
+	font-family: Titr, tahoma, sans-serif;
+}
+.Mitra {
+	font-family: Mitra, tahoma, sans-serif;
+}
+.Liner {
+	font-family: Liner, tahoma, sans-serif;
+}
+.Nasim {
+	font-family: Nasim, tahoma, sans-serif;
+}
+.Nazanin {
+	font-family: Nazanin, tahoma, sans-serif;
+}
+.Koodak {
+	font-family: Koodak, tahoma, sans-serif;
+}
+.Sans {
+	font-family: 'IRANSans-web';
+}
